@@ -1819,7 +1819,7 @@ form label {
 
 
 
-@media screen and (max-width: 360px) { 
+@media screen and (max-width: 400px) { 
   iframe {
     width: 250px;
   }
@@ -1830,6 +1830,10 @@ form label {
 
   .event-col {
     width: 100% !important;
+  }
+
+  #fh5co-header .display-tc .btn, .fh5co-cover .display-tc .btn{
+    padding: 10px 16px;
   }
 }
 
